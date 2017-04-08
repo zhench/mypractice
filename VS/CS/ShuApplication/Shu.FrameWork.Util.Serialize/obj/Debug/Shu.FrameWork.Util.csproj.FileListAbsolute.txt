@@ -1,0 +1,5 @@
+D:\Practices\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Util.Serialize.dll.config
+D:\Practices\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Util.Serialize.dll
+D:\Practices\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Util.Serialize.pdb
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Util.Serialize\obj\Debug\Shu.FrameWork.Util.Serialize.dll
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Util.Serialize\obj\Debug\Shu.FrameWork.Util.Serialize.pdb

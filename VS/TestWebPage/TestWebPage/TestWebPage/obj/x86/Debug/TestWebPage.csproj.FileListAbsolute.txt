@@ -1,0 +1,8 @@
+D:\Practices\VS\TestWebPage\TestWebPage\TestWebPage\bin\Debug\TestWebPage.exe
+D:\Practices\VS\TestWebPage\TestWebPage\TestWebPage\bin\Debug\TestWebPage.pdb
+D:\Practices\VS\TestWebPage\TestWebPage\TestWebPage\obj\x86\Debug\TestWebPage.Form1.resources
+D:\Practices\VS\TestWebPage\TestWebPage\TestWebPage\obj\x86\Debug\TestWebPage.Properties.Resources.resources
+D:\Practices\VS\TestWebPage\TestWebPage\TestWebPage\obj\x86\Debug\TestWebPage.csproj.GenerateResource.Cache
+D:\Practices\VS\TestWebPage\TestWebPage\TestWebPage\obj\x86\Debug\TestWebPage.exe
+D:\Practices\VS\TestWebPage\TestWebPage\TestWebPage\obj\x86\Debug\TestWebPage.pdb
+D:\Practices\VS\TestWebPage\TestWebPage\TestWebPage\bin\Debug\TestWebPage.exe.config

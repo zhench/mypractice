@@ -1,0 +1,9 @@
+D:\Practices\VS\CS\DelegateTest\DelegateTest\bin\Debug\DelegateTest.exe
+D:\Practices\VS\CS\DelegateTest\DelegateTest\bin\Debug\DelegateTest.pdb
+D:\Practices\VS\CS\DelegateTest\DelegateTest\obj\x86\Debug\DelegateTest.Form1.resources
+D:\Practices\VS\CS\DelegateTest\DelegateTest\obj\x86\Debug\DelegateTest.Properties.Resources.resources
+D:\Practices\VS\CS\DelegateTest\DelegateTest\obj\x86\Debug\DelegateTest.csproj.GenerateResource.Cache
+D:\Practices\VS\CS\DelegateTest\DelegateTest\obj\x86\Debug\DelegateTest.exe
+D:\Practices\VS\CS\DelegateTest\DelegateTest\obj\x86\Debug\DelegateTest.pdb
+D:\Practices\VS\CS\DelegateTest\DelegateTest\obj\x86\Debug\DelegateTest.csprojResolveAssemblyReference.cache
+D:\Practices\VS\CS\DelegateTest\DelegateTest\obj\x86\Debug\DelegateTest.exe.licenses

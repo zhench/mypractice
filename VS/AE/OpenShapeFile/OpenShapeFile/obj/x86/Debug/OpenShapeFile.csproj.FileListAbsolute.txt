@@ -1,0 +1,10 @@
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\bin\Debug\OpenShapeFile.exe
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\bin\Debug\OpenShapeFile.pdb
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\obj\x86\Debug\OpenShapeFile.Properties.Resources.resources
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\obj\x86\Debug\OpenShapeFile.RibbonForm1.resources
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\obj\x86\Debug\OpenShapeFile.csproj.GenerateResource.Cache
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\obj\x86\Debug\OpenShapeFile.exe.licenses
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\obj\x86\Debug\OpenShapeFile.exe
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\obj\x86\Debug\OpenShapeFile.pdb
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\bin\Debug\OpenShapeFile.exe.config
+D:\Practices\VS\AE\OpenShapeFile\OpenShapeFile\obj\x86\Debug\OpenShapeFile.csprojResolveAssemblyReference.cache

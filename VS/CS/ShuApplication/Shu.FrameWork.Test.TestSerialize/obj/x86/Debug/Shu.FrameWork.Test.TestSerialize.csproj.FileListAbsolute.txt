@@ -1,0 +1,14 @@
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\bin\Debug\Shu.FrameWork.Test.TestSerialize.exe
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\bin\Debug\Shu.FrameWork.Test.TestSerialize.pdb
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\bin\Debug\Shu.FrameWork.Util.Serialize.dll
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\bin\Debug\Shu.FrameWork.Util.Serialize.pdb
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\obj\x86\Debug\Shu.FrameWork.Test.TestSerialize.csprojResolveAssemblyReference.cache
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\obj\x86\Debug\Shu.FrameWork.Test.TestSerialize.Form1.resources
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\obj\x86\Debug\Shu.FrameWork.Test.TestSerialize.Properties.Resources.resources
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\obj\x86\Debug\Shu.FrameWork.Test.TestSerialize.csproj.GenerateResource.Cache
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\obj\x86\Debug\Shu.FrameWork.Test.TestSerialize.exe
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\obj\x86\Debug\Shu.FrameWork.Test.TestSerialize.pdb
+D:\Practices\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Test.TestSerialize.exe
+D:\Practices\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Test.TestSerialize.pdb
+D:\Practices\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Test.TestSerialize.exe.config
+D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Test.TestSerialize\obj\x86\Debug\Shu.FrameWork.Test.TestSerialize.exe.licenses

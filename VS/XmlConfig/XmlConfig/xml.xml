@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <connstring>provider=sqloledb;Data Source=127.0.0.1;Initial Catalog=splaybow;User Id=splaybow;Password=splaybow;</connstring>
+  <!--Email SMTP info-->
+  <smtpip>127.0.0.1</smtpip>
+  <smtpuser>splaybow@jb51.net</smtpuser>
+  <smtppass>splaybow</smtppass>
+</root>

@@ -1,0 +1,6 @@
+D:\Practices\VS\XmlConfig\XmlConfig\bin\Debug\XmlConfig.exe
+D:\Practices\VS\XmlConfig\XmlConfig\bin\Debug\XmlConfig.pdb
+D:\Practices\VS\XmlConfig\XmlConfig\obj\x86\Debug\XmlConfig.Properties.Resources.resources
+D:\Practices\VS\XmlConfig\XmlConfig\obj\x86\Debug\XmlConfig.csproj.GenerateResource.Cache
+D:\Practices\VS\XmlConfig\XmlConfig\obj\x86\Debug\XmlConfig.exe
+D:\Practices\VS\XmlConfig\XmlConfig\obj\x86\Debug\XmlConfig.pdb
