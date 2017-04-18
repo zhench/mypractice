@@ -3,3 +3,8 @@ D:\Practices\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Util.Serialize.dll
 D:\Practices\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Util.Serialize.pdb
 D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Util.Serialize\obj\Debug\Shu.FrameWork.Util.Serialize.dll
 D:\Practices\VS\CS\ShuApplication\Shu.FrameWork.Util.Serialize\obj\Debug\Shu.FrameWork.Util.Serialize.pdb
+D:\Practices\mypractice\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Util.dll.config
+D:\Practices\mypractice\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Util.dll
+D:\Practices\mypractice\VS\CS\ShuApplication\bin\Debug\Shu.FrameWork.Util.pdb
+D:\Practices\mypractice\VS\CS\ShuApplication\Shu.FrameWork.Util.Serialize\obj\Debug\Shu.FrameWork.Util.dll
+D:\Practices\mypractice\VS\CS\ShuApplication\Shu.FrameWork.Util.Serialize\obj\Debug\Shu.FrameWork.Util.pdb

@@ -1,0 +1,1 @@
+copy c:\Users\Administrator\Desktop\* z:\Documents\Desktop

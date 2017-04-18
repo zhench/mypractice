@@ -1,0 +1,4 @@
+D:\Practices\mypractice\VS\CS\ShuApplication\Shu.FrameWork.Config\bin\Debug\Shu.FrameWork.Config.dll
+D:\Practices\mypractice\VS\CS\ShuApplication\Shu.FrameWork.Config\bin\Debug\Shu.FrameWork.Config.pdb
+D:\Practices\mypractice\VS\CS\ShuApplication\Shu.FrameWork.Config\obj\Debug\Shu.FrameWork.Config.dll
+D:\Practices\mypractice\VS\CS\ShuApplication\Shu.FrameWork.Config\obj\Debug\Shu.FrameWork.Config.pdb
