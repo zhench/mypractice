@@ -1,0 +1,66 @@
+<!DOCTYPE htm>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Shopping list</title>
+    <style>
+    p{
+        color: yellow;
+        font-family:"arial",sans-serif;
+        font-size: 1.2em
+    }
+    body{
+        color: red;
+        background-color: black;
+    }
+    .special{font-style:italic;}
+    h2.special{text-transform: uppercase;}
+    #purchases{
+        border: 1px solid white;
+        background-color:#333;
+        padding:1em;
+    }
+    #purchases li{
+        font-weight:600;
+        color:#ccc;
+    }
+    </style>
+    <script>
+    function getElementsByClassName(node,classname){
+        if(node.getElementsByClassName){
+            //使用现有方法
+            return node.getElementsByClassName(classname);
+        } else{
+            
+        }
+    }
+    </script>
+</head>
+<body>
+    <h1>What to buy</h1>
+    <p title="a gentle reminder">Don't forget to buy this stuff.</p>
+    <ul id="purchases">
+        <li>A tin of beans</li>
+        <li class="sale">Cheese</li>
+        <li class="sale important">Milk</li>
+    </ul>
+    <p class="special">This paragraph has the special class</p>
+    <h2 class="special">So does this headline</h2>
+    <script>
+    //debugger;
+    alert( typeof(document.getElementById("purchases")));
+    alert(document.getElementsByTagName("*").length);
+    for(var i=0; i<document.getElementsByTagName("*").length;i++){
+        //alert(document.getElementsByTagName("*")[i]);
+    }
+    var shopping=document.getElementById("purchases");
+    var items=shopping.getElementsByTagName("*");
+    alert(typeof document.getElementsByClassName("sale"));
+    alert(document.getElementsByClassName('important sale').length);
+    var sales=shopping.getElementsByClassName("sale");
+    alert(sales.length);
+    debugger;
+    </script>
+</body>
+</head>
+</html>
