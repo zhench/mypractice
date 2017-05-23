@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>模块与包
+    </title>
+    <script>
+    var dojoConfig = {
+        baseUrl: "js/",
+        package: [{
+            name: "com",
+            location: "com"
+        }]
+    }
+    debugger;
+    console.log(baseUrl);
+    </script>
+    <script src="http://192.168.217.138:9080/arcgis_js_api/library/4.3/4.3/init.js"></script>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link href="" rel="stylesheet">
+    <script>
+    require(["com/WebGIS2/Graphics/Shape","dojo/domReady!"],function(Shape){
+    	var shape=new Shape();
+    	shape.setColor(0x0000FF);
+    	console.log("形状的颜色为："+shape.color);
+    })
+    </script>
+</head>
+
+<body>
+<p>jiyuongzhitai</p>
+</body>
+
+</html>
