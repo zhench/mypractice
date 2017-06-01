@@ -77,5 +77,6 @@ require(["dojo/_base/declare"], function(declare) {
         constructor: function() {
             this.localComplexArg = { val: "bar" };
         }
+=======
     })
 })
