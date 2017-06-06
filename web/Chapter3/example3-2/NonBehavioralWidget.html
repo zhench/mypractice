@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>non-behavioral widget</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link href="http://192.168.217.138:9080/arcgis_js_api/library/4.3/4.3/dijit/themes/tundra/tundra.css" rel="stylesheet">
+    <script src="http://192.168.217.138:9080/arcgis_js_api/library/4.3/4.3/init.js"></script>
+    <script type="text/javascript">
+    require(["dojo/_base/declare", "dijit/_Widget", "dojo/dom-construct"], function(declare, _Widget, domConstruct) {
+        declare("MyFirstWidget", _Widget, {
+            buildRendering: function() {
+                this.domNode = domConstruct.create("button", {
+                    innerHTML: "提交"
+                });
+            }
+        });
+    });
+    require(["dojo/parser", "dojo/domReady!"], function(parser) {
+        parser.parse();
+    });
+    </script>
+</head>
+
+<body class="tundra">
+    <span data-dojo-type="MyFirstWidget">最简单的行为性小部件</span>
+</body>
+
+</html>

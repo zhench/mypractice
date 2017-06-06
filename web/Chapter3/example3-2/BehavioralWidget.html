@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>behavioral widget</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link href="http://192.168.217.138:9080/arcgis_js_api/library/4.3/4.3/dijit/themes/tundra/tundra.css" rel="stylesheet">
+    <script src="http://192.168.217.138:9080/arcgis_js_api/library/4.3/4.3/init.js"></script>
+</head>
+<script type="text/javascript">
+require(["dojo/_base/declare", "dijit/_Widget"], function(declare, _Widget) {
+    declare("MyFirstBehavioralWidget", _Widget, { //在这里编写属性和方法
+    });
+});
+require(["dojo/parser", "dojo/domReady!"], function(parser) {
+    parser.parse();
+})
+</script>
+
+<body>
+</body class="tundra">
+<span data-dojo-type="MyFirstBehavioralWidget">最简单的行为性小部件</span>
+</html>
