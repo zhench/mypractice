@@ -28,7 +28,57 @@ define(["dojo/_base/declare", "dojo/_base/array", "dojo/query", "dojo/dom-attr",
                 item.buttonText = domAttr.get(item, "buttonText");
             });
             this.showPanel(0);
+        },
+        onShowPanel: function(index) {
+            //由小部件框架类WidgetFrame监听使用
+        },
+        showPanel: function( /*Number*/ index) {
+            this.panelIndex = index;
+            array.forEach(this.panels, function(item, idx, arr) {
+                if (idx == index) { domStyle.set(item, "display", "block") } else {
+                    domStyle.set(item, "display", "none");
+                }
+            });
+        },
+        startup: function() {
+            if (this.started) {
+                return;
+            }
+
+            var children = this.getChildren();
+            array.forEach(children, function(child) {
+                child.startup();
+            });
+            //与小部件框架类WidgetFrame交互
+            var frame = this.getParent();
+            if (frame && frame.declareClass === "webgis2book.widgets.WidgetFrame") {
+                this.connects.push(on(this, "onShowPanel"，
+                    frame, "selectPanel"));
+            }
+            this.inherited(arguments);
+        },
+        shutdown: function() {
+            //由子类覆盖该方法，实现关闭时清除占用资源
+        }，
+        uninitialize: function() {
+            array.forEach(this.connects, function(handle) {
+                handle.remove();
+            });
+            this.connects = [];
+        },
+
+        getAllNamedChildDijits: function() {
+            //获得所有的子小部件
+            var w = query("[widgetId]", this.conntainerNode || this.domNode);
+            var children = w.map(dijit.byNode);
+
+            this.widgets = {};
+            children.forEach(lang, hitch(this, function(item, idx) {
+                if (item.name) {
+                    this.widgets[item.name] = item;
+                }
+            }));
         }
 
-    })
+    });
 })
