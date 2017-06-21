@@ -52,14 +52,14 @@ define(["dojo/_base/declare", "dojo/_base/array", "dojo/query", "dojo/dom-attr",
             //与小部件框架类WidgetFrame交互
             var frame = this.getParent();
             if (frame && frame.declareClass === "webgis2book.widgets.WidgetFrame") {
-                this.connects.push(on(this, "onShowPanel"，
+                this.connects.push(on(this, "onShowPanel",
                     frame, "selectPanel"));
             }
             this.inherited(arguments);
         },
         shutdown: function() {
             //由子类覆盖该方法，实现关闭时清除占用资源
-        }，
+        },
         uninitialize: function() {
             array.forEach(this.connects, function(handle) {
                 handle.remove();
